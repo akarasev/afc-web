@@ -1,2 +1,4 @@
 # afc-web
-App for counters
+Application for counters.
+
+One API for many suppliers of water and electricity.
